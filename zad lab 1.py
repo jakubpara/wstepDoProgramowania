@@ -18,6 +18,7 @@ print(b)
 print(c)
 print(d)
 print(e)"""
+test test
 
 """zad2
 uczelnia="Studiuje na WSIiZ"
