@@ -13,19 +13,19 @@ print(bonus)'''
 
 #zadanie 5
 
-'''with open("notowania_gieldowe.txt","r") as raport:
+'''
+#with open("notowania_gieldowe.txt","r") as raport:
    print(raport.read())
 
 with open("notowania_gieldowe.txt","a") as raport:
-   proba=raport.write("\n ALR, 113.")'''
-
+   zmiana=raport.write("\n ALR, 113.")
+print(zmiana)'''
 #zadanie 6
-
+#w trakcje zajec
 
 
 #zadanie 7
-'''#Sprawdź, czy podane hasło ma wymaganą długość 11 znaków oraz zwiera znak specjalny '!'. Jeżeli tak,
-#wydrukuj do konsoli „Hasło jest poprawne”, w przeciwnym razie „Hasło jest nie poprawne”.
+'''
 Hasło = 'pk47!jy0893'
 
 if len(Hasło)==11:
@@ -36,12 +36,14 @@ if len(Hasło)==11:
 else:
    print("Hasło nie jest poprawne")'''
 
+
 #zadanie 8
 '''text = 'Studiuje-Informatykę'
 print(text[0:3])
 print(text[-2:])'''
 
+'''
 #zadanie 9
 text="LEKKI wiatr"
 a=text.swapcase()
-print(a)
+print(a)'''
