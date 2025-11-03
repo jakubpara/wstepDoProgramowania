@@ -29,7 +29,6 @@ while licznik < len(xn):#w tej petli dla kazdego elementu xn przypisujemy cene
 print(ceny)
 
 counter=int(0)
-#counternext=int(counter+1)
 suma=0
 
 print(f'ilosc cen: {len(ceny)}')
